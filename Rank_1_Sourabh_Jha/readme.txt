@@ -1,0 +1,3 @@
+ - install the libraries using requirements.txt
+ - put the hackathon data in data folder
+ - cd Codes && python amexpert.py
