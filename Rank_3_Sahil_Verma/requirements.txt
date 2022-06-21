@@ -1,7 +1,7 @@
 catboost==0.16
 hyperopt==0.1.2
 lightgbm==2.3.0
-numpy==1.16.4
+numpy==1.22.0
 numpydoc==0.9.1
 pandas==0.24.2
 scikit-image==0.15.0
