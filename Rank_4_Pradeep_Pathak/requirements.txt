@@ -1,5 +1,5 @@
 pandas==0.25.1
-numpy==1.17.2
+numpy==1.22.0
 numpydoc==0.9.1
 xgboost==0.90
 lightgbm==2.3.0
